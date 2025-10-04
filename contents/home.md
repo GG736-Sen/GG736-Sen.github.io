@@ -1,17 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently a graduate student at Beijing Film Academy.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: wanyingli.736[at]foxmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.A., Drama and Film Studies, Beijing Film Academy, 2023-Present.\
+B.A., Advertising, Beijing Institute of Fashion Technology, 2017-2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Early Chinese films; Gender and Representation in Chinese Film; Chinese Women’s Film Literature; Culture Study; Film Theories.
 
