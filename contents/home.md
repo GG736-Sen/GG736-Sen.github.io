@@ -7,7 +7,7 @@ She is currently a graduate student at Beijing Film Academy.
 Email: wanyingli.736[at]foxmail.com
 
 #### Education
-M.A., Drama and Film Studies, Beijing Film Academy, 2023-Present.\
+M.A., Drama and Film Studies, Beijing Film Academy, 2023-2026 (expected).\
 B.A., Advertising, Beijing Institute of Fashion Technology, 2017-2021.
 
 #### Research Interests
